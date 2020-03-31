@@ -4,7 +4,7 @@ if (!defined('__TYPECHO_ROOT_DIR__')) exit;
  * 外链转内链
  *
  * @package ShortLinks
- * @author  SnowWarrior,鸿
+ * @author  SnowWarri0r,鸿
  * @version 0.0
  * @link
  */
