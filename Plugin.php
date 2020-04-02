@@ -21,9 +21,7 @@ class Link2own_Plugin implements Typecho_Plugin_Interface
         Typecho_Plugin::factory('Widget_Archive')->singleHandle = array('Link2own_Plugin', 'replace');
     }
 
-    public static function deactivate(){
-
-    }
+    public static function deactivate(){}
 
     public static function config(Typecho_Widget_Helper_Form $form){}
 
